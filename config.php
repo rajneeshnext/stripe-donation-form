@@ -4,8 +4,8 @@ $config = array();
 // Form 1
 $slug = "HelpPetsNow";
 $config[$slug]['main_url'] = 'https://werescued.org/help/remote_form.php';
-$config[$slug]['STRIPE_CLIENT_ID'] = 'pk_live_51M2gbdJaLA4XRgtI1jhIN1uumTLEIXDzjT9u9arEboX3qrXWdVF7bkcbOSYUvt3oK7iK9TAnZlOKeKhOxp1zDNHZ00hkCtTxYb';
-$config[$slug]['STRIPE_SECRET_KEY'] = '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';
+$config[$slug]['STRIPE_CLIENT_ID'] = 'xxxx';
+$config[$slug]['STRIPE_SECRET_KEY'] = 'xxxx';
 
 $config[$slug]['main_title'] = 'Help Where It\'s Needed Most.';
 $config[$slug]['logo_url'] = 'https://www.werescued.org/help/images/download-img.png';
@@ -20,8 +20,8 @@ $config[$slug]['terms_policy_url'] = 'https://werescued.org/help/terms_policy.ph
 // Form 2
 $slug = "HelpCatsNow";
 $config[$slug]['main_url'] = 'https://werescued.org/help/remote_form.php';
-$config[$slug]['STRIPE_CLIENT_ID'] = 'pk_live_51M2gbdJaLA4XRgtI1jhIN1uumTLEIXDzjT9u9arEboX3qrXWdVF7bkcbOSYUvt3oK7iK9TAnZlOKeKhOxp1zDNHZ00hkCtTxYb';
-$config[$slug]['STRIPE_SECRET_KEY'] = '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';
+$config[$slug]['STRIPE_CLIENT_ID'] = 'xxx';
+$config[$slug]['STRIPE_SECRET_KEY'] = 'xxx';
 
 $config[$slug]['main_title'] = 'Help Cats Where It\'s Needed Most.';
 $config[$slug]['logo_url'] = 'https://www.werescued.org/help/images/download-img.png';
