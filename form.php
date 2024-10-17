@@ -1534,7 +1534,7 @@ input[type=checkbox]:focus{outline: none;}
                                                         <script>
                                                             function payButton(amount, title="", description=""){
                                                                 $(".card_error_message").hide();  
-                                                                const stripe = Stripe('pk_test_51M2gbdJaLA4XRgtI9FH4cyXsYm37Mdce9bTLsXpmP2uR57YGCQIAeRU9LasFTnhVQm73oCvaaMFmxZAyWdN7m7d900dsCRwm3m', {
+                                                                const stripe = Stripe('xxxxx', {
                                                                       apiVersion: "2022-08-01",
                                                                     });  
                                                                 clientSecret = "";
