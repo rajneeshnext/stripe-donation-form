@@ -1,2 +1,2 @@
 # stripe-donation-form
-Beautifully Designed Stripe form
+# Beautifully Designed Stripe Donation form
