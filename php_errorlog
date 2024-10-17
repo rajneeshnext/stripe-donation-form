@@ -1,0 +1,8 @@
+[28-Mar-2024 10:42:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function send_stripe_email(), 1 passed in /home/customer/www/werescued.org/public_html/help/testemail.php on line 5 and exactly 2 expected in /home/customer/www/werescued.org/public_html/help/testemail.php:7
+Stack trace:
+#0 /home/customer/www/werescued.org/public_html/help/testemail.php(5): send_stripe_email('raj')
+#1 {main}
+  thrown in /home/customer/www/werescued.org/public_html/help/testemail.php on line 7
+[28-Mar-2024 18:40:27 UTC] PHP Fatal error:  Cannot redeclare send_stripe_email() (previously declared in /home/customer/www/werescued.org/public_html/help/thank-you.php:599) in /home/customer/www/werescued.org/public_html/help/config.php on line 35
+[28-Mar-2024 18:40:29 UTC] PHP Fatal error:  Cannot redeclare send_stripe_email() (previously declared in /home/customer/www/werescued.org/public_html/help/thank-you.php:599) in /home/customer/www/werescued.org/public_html/help/config.php on line 35
+[01-Apr-2024 05:23:43 UTC] PHP Fatal error:  Cannot redeclare send_stripe_email() (previously declared in /home/customer/www/werescued.org/public_html/help/return.php:599) in /home/customer/www/werescued.org/public_html/help/config.php on line 35
